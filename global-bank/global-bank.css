@@ -22,3 +22,11 @@ section {
 h2, h3, p, b {
     color: blue;
 }
+
+#header {
+    background-image: url("header5.png");
+}
+
+#footer {
+    background-image: url("footer_new.jpg");
+}
