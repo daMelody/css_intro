@@ -79,3 +79,11 @@ ul {
     font-size: 25px;
     font-weight: bold;
 }
+
+input[type="number"]:disabled {
+    background-color: lightblue;
+}
+
+input[type="text"]:required {
+    background-color: pink;
+}
