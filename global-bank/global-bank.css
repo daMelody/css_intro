@@ -1,5 +1,6 @@
 body{
     background-color:lightgrey;
+    cursor: crosshair;
 }
 
 h3, h4 {
@@ -7,6 +8,14 @@ h3, h4 {
     text-decoration: underline;
     text-align: center;
     border: solid darkblue 4px;
+}
+
+td {
+    padding: 15px;
+}
+
+ul {
+    list-style: square;
 }
 
 #intro {
