@@ -9,3 +9,8 @@ body{
 #direction {
     color: maroon;
 }
+
+.details {
+    background-color: lightblue;
+    color: white;
+}
