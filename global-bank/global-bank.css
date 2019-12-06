@@ -2,12 +2,29 @@ body{
     background-color:lightgrey;
 }
 
+h3 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#intro {
+    margin-bottom: 50px;
+}
 #description {
     color: blue;
+    margin-right: 30px;
 }
 
 #direction {
     color: maroon;
+}
+
+#gratitude {
+    word-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 .details {
@@ -15,18 +32,27 @@ body{
     color: white;
 }
 
-section {
-    color: blue;
-}
-
-h2, h3, p, b {
-    color: blue;
-}
-
 #header {
+    color: white;
+    text-indent: 120px;
     background-image: url("header5.png");
+    font-family: Arial;
+    font-size: 25px;
 }
 
 #footer {
+    color: white;
     background-image: url("footer_new.jpg");
+    font-family: Arial;
+    font-size: 15px;
+}
+
+#formheader {
+    font-style: italic;
+}
+
+#title {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
 }
