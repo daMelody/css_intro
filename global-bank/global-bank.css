@@ -1,16 +1,11 @@
-h3 {
-    background-color: grey;
-    color: white;
+body{
+    background-color:lightgrey;
 }
 
-body {
-    background-color: lightgrey;
+#description {
+    color: blue;
 }
 
-table {
-    color: purple;
-}
-
-p {
-    color: green;
+#direction {
+    color: maroon;
 }
