@@ -19,6 +19,6 @@ section {
     color: blue;
 }
 
-section p {
-    color: green;
+h2, h3, p, b {
+    color: blue;
 }
