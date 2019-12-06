@@ -14,7 +14,7 @@ li a {
     text-decoration: none;
 }
 
-h2 a {
+h2 a, p a {
     color: orangered;
     text-decoration: none;
 }
@@ -30,4 +30,14 @@ li {
 
 li:hover,li:active {
     background-color: orangered;
+}
+
+#content {
+    width: 70%;
+    float: left;
+}
+
+#asides {
+    width: 30%;
+    float: right;
 }
