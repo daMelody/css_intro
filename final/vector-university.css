@@ -4,6 +4,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+img {
+    margin: 10px;
+}
+
 nav {
     margin: 10px;
     background-color: grey;
@@ -40,4 +44,11 @@ li:hover,li:active {
 #asides {
     width: 30%;
     float: right;
+}
+
+.tile {
+    border: solid grey 2px;
+    background-color: whitesmoke;
+    margin: 15px;
+    padding: 20px;
 }
