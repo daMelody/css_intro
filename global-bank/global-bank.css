@@ -3,6 +3,29 @@ body{
     cursor: crosshair;
 }
 
+a {
+    color: maroon;
+}
+
+a:hover {
+    color: hotpink;
+    font-size: 125%;
+}
+
+a:active {
+    color: blue;
+}
+
+a:visited {
+    color: green;
+    font-weight: bold;
+}
+
+h3::first-letter {
+    color: purple;
+    font-size: 150%;
+}
+
 h3, h4 {
     text-transform: capitalize;
     text-decoration: underline;
@@ -20,14 +43,6 @@ ul {
 
 #intro {
     margin-bottom: 50px;
-}
-#description {
-    color: blue;
-    margin-right: 30px;
-}
-
-#direction {
-    color: maroon;
 }
 
 #gratitude {
