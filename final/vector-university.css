@@ -52,3 +52,15 @@ li:hover,li:active {
     margin: 15px;
     padding: 20px;
 }
+
+aside {
+    border: solid grey 2px;
+    background-color: whitesmoke;
+    margin: 15px;
+    padding: 15px;
+}
+
+.maintainer {
+    font-style: italic;
+    color: darkgrey;
+}
